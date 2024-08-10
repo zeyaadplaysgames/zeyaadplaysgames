@@ -1,4 +1,3 @@
--  Hi, I’m @zeyaadplaysgames
+-  My name's zeyaad
 -  I’m interested in Cyber security/Ethical Hacking
--  Sometimes idk what im even doing
 -  Learning python and JavaScript 
