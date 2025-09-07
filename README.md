@@ -1,3 +1,3 @@
 -  My name's zeyaad
 -  I’m interested in Cyber security/Ethical Hacking
--  Learning python and JavaScript 
+-  Learning python and Linux
